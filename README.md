@@ -18,6 +18,6 @@ This repository contains a clean, delivery-vetted sample dataset tracking active
 ### 📥 Download the Full 100-Row Master Enterprise Directory
 If your enterprise sales reps, software developers, or business development managers need instant, unrestricted access to the complete, fully compiled 100-row master database across all target territories, you can pull the raw, unrestricted `.CSV` file directly from our secure processing node here:
 
-👉 **[Download the Master Agritech B2B Directory on Gumroad](https://coreindexanalytics.gumroad.com/l/jsyje)**
+👉 **[Download the Master Agritech B2B Directory on Gumroad](https://coreindexanalytics.gumroad.com/l/bdlcuq)**
 
 *All transactions securely processed via Gumroad. Instant download delivery upon authorization.*
